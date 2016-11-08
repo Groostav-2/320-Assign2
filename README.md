@@ -8,13 +8,13 @@ The Canadian Charter also directly addresses the issue of privacy through every 
 
 Everyone has...
 
-Section 7:
+>Section 7:
 >the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
-
-Section 8:
+>
+>Section 8:
 >to be secure against unreasonable search or seizure.
-
-Section 11 (C):
+>
+>Section 11 (C):
 >not to be compelled to be a witness in proceedings against that person in respect of the offence;
 
 These passages are largely aimed at a private citizens protections from the police and other government agents, not at protection from private enterprise. 
