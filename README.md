@@ -1,5 +1,7 @@
 # CMPT 320 Assignment 2
 
+This is my submission for assignment 2, as hosted on github for nicer formatting.
+
 ## Question 1
 
 >Look up the Canadian Constitution.  Study it and conclude whether or not this document affords the right to privacy either directly or indirectly.  Compare and contrast your previous result to "The United Nations Agreements on Human Rights."   A summary can be found at http://www.hrweb.org/legal/undocs.html
@@ -21,13 +23,15 @@ Everyone has...
 
 These passages are largely aimed at a private citizens protections from the police and other government agents, not at protection from private enterprise. 
 
-The "Personal Information Protection and Electronic Documents Act" states the rights an individual has from a private company but in a much more nuanced way, making a clear declaration of a simple right to privacy much more vague. Much of this legislation suggest that industry requires either and explicit approval from those whose privacy might be violated or that no reasonable person would consider their privacy violated. 
+The "Personal Information Protection and Electronic Documents Act" states the rights an individual has from a private company but in a much more nuanced way[1], making a clear declaration of a simple right to privacy much more vague. Much of this legislation suggest that industry requires either and explicit approval from those whose privacy might be violated or that no reasonable person would consider their privacy violated. 
 
 Thus the UN Human Rights Agreement and the Canadian Charter of Rights and Freedoms are thus related but different; because the UN does not have any sovereignty it's document is acting as a guide for sovereign nations, with the charter being one incarnation of these rights but only with respect to the privacy one has from the government itself. 
 
 As private industry discovers increasingly powerful and increasingly privacy-threatening tools, and as these industries, the protection that used to be provided by the charter and the UN both become less relevant.
 
 --
+
+- [1] [Personal Information Protection and Electronic Documents Act](http://laws-lois.justice.gc.ca/eng/acts/P-8.6/page-2.html#h-6)
 
 ## Question 2:
 
@@ -45,5 +49,5 @@ This is the backlash we are seeing in the online advertising space, where Big Da
 
 ---
 
-[1] Forbes: [how garget figured out a teen girl was pregnant before her father did](http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#6e6789d234c6)
-[2] Wikipedia: [Roe V Wade](https://en.wikipedia.org/wiki/Roe_v._Wade)
+- [1] Forbes: [how garget figured out a teen girl was pregnant before her father did](http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#6e6789d234c6)
+- [2] Wikipedia: [Roe V Wade](https://en.wikipedia.org/wiki/Roe_v._Wade)
