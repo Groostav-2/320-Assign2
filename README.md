@@ -1,5 +1,7 @@
 # CMPT 320 Assignment 2
 
+## Question 1
+
 >Look up the Canadian Constitution.  Study it and conclude whether or not this document affords the right to privacy either directly or indirectly.  Compare and contrast your previous result to "The United Nations Agreements on Human Rights."   A summary can be found at http://www.hrweb.org/legal/undocs.html
 
 The United Nations Agreements on Human Rights directly addresses the issue of privacy, going so far as to make its protection explicit under Article 17. 
@@ -25,11 +27,15 @@ Thus the UN Human Rights Agreement and the Canadian Charter of Rights and Freedo
 
 As private industry discovers increasingly powerful and increasingly privacy-threatening tools, and as these industries, the protection that used to be provided by the charter and the UN both become less relevant.
 
+--
+
+## Question 2:
+
 >Provide a detailed and sound argument for or against "Big Data".   
 
-With the advent of Hadoop and other easily setup Big Data analysis libraries, Big Data has proliferated. Big Data represents a set of techniques that can be used to derive very specific and subtle (often "creepy") information from massive data sets. In one case, Big Data analysis on a high schooler's shopping habits were able to determine that she was pregnant, before her family had any suspicion. Big Data is inevitable and hugely valuable, so it cannot be given up. But a technology such as this is very powerful, and with such power comes a great deal of responsibility. 
+With the advent of Hadoop and other easily setup Big Data analysis libraries, Big Data has proliferated. Big Data represents a set of techniques that can be used to derive very specific and subtle (often "creepy") information from massive data sets. In one case, Big Data analysis on a high schooler's shopping habits were able to determine that she was pregnant, before her family had any suspicion [1]. Big Data is inevitable and hugely valuable, so it cannot be given up. But a technology such as this is very powerful, and with such power comes a great deal of responsibility. 
 
-Given that the 14th amendment of the United States protects a woman's right to keep knowledge of her pregnancy to herself, and irrespective of the harm that may come from keeping that fact a secret, Target's disclosure of her pregnancy to her parents represented a violation of her constitutional rights. In this particular instance no harm may have come from such a disclosure, but one can imagine other situations where Big Data could be used in this fashion to reveal other presumed private facts to malevolent actors, and in most cases one industry or another has a vested interest in learning of these facts. Pharmaceutical companies may use Big Data techniques to discover a particular ailment somebody has, potentially disclosing this information to that person, that persons community, the company running the Big Data analysis, or partners in related industries, any of which represent a breach of that persons right to privacy. 
+Given that the 14th amendment of the United States protects a woman's right to keep knowledge of her pregnancy to herself [2], and irrespective of the harm that may come from keeping that fact a secret, Target's disclosure of her pregnancy to her parents represented a violation of her constitutional rights. In this particular instance no harm may have come from such a disclosure, but one can imagine other situations where Big Data could be used in this fashion to reveal other presumed private facts to malevolent actors, and in most cases one industry or another has a vested interest in learning of these facts. Pharmaceutical companies may use Big Data techniques to discover a particular ailment somebody has, potentially disclosing this information to that person, that persons community, the company running the Big Data analysis, or partners in related industries, any of which represent a breach of that persons right to privacy. 
 
 Like most of the software development industry Big Data is not a revolution. Many of the techniques employed by Big Data have been around for quite some time, and are evolving as you read this. In this sense, Big Data is merely an evolution on existing technologies and thus any attempt to define Big Data immediately falls victim to the argument of the beard. In this way any attempt by government to restrict the deployment of Big Data will be met with disaster, as determining who is using big data techniques will be as futile as the attempt to restrict the deployment of encryption techniques. Government does not have the technical sophistication and precision necessary to pass useful and non-harmful legislation in this respect.
 
@@ -37,6 +43,7 @@ Governmental regulation cannot be precise enough to restrict Big Data's reach an
 
 This is the backlash we are seeing in the online advertising space, where Big Data has been employed to huge success. Typically advertisers use Big Data to target ("track") their audience as precisely as they can, allowing the advertisement industry to control who sees which ads, adding value to both the consumer and the producers as accidents like marketing feminine hygiene products to men become a thing of the past. However, many internet communities to not take lightly to the removal of their anonymity, and thus tools like ad blockers, cookie controls, and scripting control have become commonly employed by users to avoid having their data collected. This increased level of control is the only reasonable path forward.
 
-[1] 
-[2] Roe V Wade: https://en.wikipedia.org/wiki/Roe_v._Wade
-[3] Orbit, the latest Big Data technique, has been advanced 11 hours ago https://github.com/orbit/orbit
+---
+
+[1] Forbes: [how garget figured out a teen girl was pregnant before her father did](http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#6e6789d234c6)
+[2] Wikipedia: [Roe V Wade](https://en.wikipedia.org/wiki/Roe_v._Wade)
